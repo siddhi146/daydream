@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APOD-daydream.iml" filepath="$PROJECT_DIR$/.idea/modules/APOD-daydream.iml" group="APOD-daydream" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/APOD-daydream-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/APOD-daydream-app.iml" group="APOD-daydream/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/APOD-daydream-data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/APOD-daydream-data.iml" group="APOD-daydream/data" />
       <module fileurl="file://$PROJECT_DIR$/DaydreamNasa.iml" filepath="$PROJECT_DIR$/DaydreamNasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
